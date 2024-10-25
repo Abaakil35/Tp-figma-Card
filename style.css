@@ -1,1 +1,40 @@
 @import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+.mac-book-air-1,
+.mac-book-air-1 * {
+  box-sizing: border-box;
+}
+.mac-book-air-1 {
+  background: #d3d2d2;
+  height: 832px;
+  position: relative;
+  overflow: hidden;
+}
+.group-10 {
+  position: absolute;
+  inset: 0;
+}
+.group-9 {
+  width: 595px;
+  height: 447px;
+  position: static;
+}
+.rectangle-1 {
+  background: #ffffff;
+  border-radius: 26px;
+  width: 595px;
+  height: 447px;
+  position: absolute;
+  left: 314px;
+  top: 176px;
+}
+.caramel-syrup-with-coffee-milk-and-whipeed-cream {
+  color: #d3d2d2;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 556px;
+  top: 299px;
+  width: 288px;
+}
