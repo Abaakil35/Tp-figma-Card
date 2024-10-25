@@ -219,4 +219,81 @@
     position: absolute;
     left: 673.74px;
     top: 454.06px;
+  }.frame-22 {
+    background: #b6a59d;
+    border-radius: 90px;
+    border-style: solid;
+    border-color: transparent;
+    border-width: 1px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 742px;
+    top: 454px;
   }
+  .frame-32 {
+    background: #bcb2b2;
+    border-radius: 90px;
+    border-style: solid;
+    border-color: rgba(169, 169, 169, 0);
+    border-width: 1px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 810px;
+    top: 454px;
+  }
+  .rectangle-2 {
+    width: 396px;
+    height: 53px;
+    position: absolute;
+    left: 464px;
+    top: 643px;
+    overflow: visible;
+  }
+  .frame-4 {
+    background:#fff;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 422px;
+    position: absolute;
+    left: calc(50% - 211px);
+    top: 545px;
+  }
+   .add-to-billing {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins-Medium", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    position: relative;
+    width: 268px;
+    height: 50px;
+    background-color: #dd8c09;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .add-to-billing:hover {
+    background-color: #333;
+  }
+  
+  
